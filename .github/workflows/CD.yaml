@@ -4,7 +4,7 @@ name: Terraform CD
 on:
   push:
     branches:
-      - "main"
+      - master
 
 # declare the running agent (what VM to run?)
 jobs: # what task u want it to run 
