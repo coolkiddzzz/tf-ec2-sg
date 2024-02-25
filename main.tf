@@ -1,5 +1,5 @@
 /*
-**Assignment today:**
+**Assignment:**
 - Create an EC2 using terraform that contains a new security group that allows:
 - HTTP from anywhere
 - HTTPS from anywhere
